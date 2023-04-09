@@ -18,6 +18,10 @@
 
 ### Counter
 
-#### [概念](./skill/Counter/index.js)
+#### [概念](./skill/Counter/index.md)
 
-#### [例子](./skill/Counter/index.md)
+#### [例子](./skill/Counter/index.js)
+
+### Pointer
+
+#### [例子](./skill/Pointer/index.js)
